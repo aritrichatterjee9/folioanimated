@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+Deployed in https://folioanimated.vercel.app/
+
+![image](https://github.com/aritrichatterjee9/folioanimated/assets/73156770/33c3ab81-92fd-47d6-b07e-9d4b306b3b7c)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
